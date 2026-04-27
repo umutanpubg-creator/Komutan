@@ -4,8 +4,8 @@ import os
 import threading
 
 # HEDEF BİLGİLERİ
-target_ip = "62.113.109.29"
-target_port = 1080 # Genelde 80 veya 443
+target_ip = "144.31.230.73"
+target_port = 22 # Genelde 80 veya 443
 
 # Rastgele veri paketi oluşturucu
 def generate_payload(size):
